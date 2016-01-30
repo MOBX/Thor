@@ -1,0 +1,16 @@
+trace=com.mob.thor.rpc.protocol.filter.TraceFilter
+future=com.mob.thor.rpc.protocol.filter.FutureFilter
+echo=com.mob.thor.rpc.api.filter.EchoFilter
+generic=com.mob.thor.rpc.api.filter.GenericFilter
+genericimpl=com.mob.thor.rpc.api.filter.GenericImplFilter
+token=com.mob.thor.rpc.api.filter.TokenFilter
+accesslog=com.mob.thor.rpc.api.filter.AccessLogFilter
+activelimit=com.mob.thor.rpc.api.filter.ActiveLimitFilter
+classloader=com.mob.thor.rpc.api.filter.ClassLoaderFilter
+context=com.mob.thor.rpc.api.filter.ContextFilter
+consumercontext=com.mob.thor.rpc.api.filter.ConsumerContextFilter
+exception=com.mob.thor.rpc.api.filter.ExceptionFilter
+executelimit=com.mob.thor.rpc.api.filter.ExecuteLimitFilter
+deprecated=com.mob.thor.rpc.api.filter.DeprecatedFilter
+compatible=com.mob.thor.rpc.api.filter.CompatibleFilter
+timeout=com.mob.thor.rpc.api.filter.TimeoutFilter

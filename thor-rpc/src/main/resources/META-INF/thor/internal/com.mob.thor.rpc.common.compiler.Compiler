@@ -1,0 +1,3 @@
+adaptive=com.mob.thor.rpc.common.compiler.support.AdaptiveCompiler
+jdk=com.mob.thor.rpc.common.compiler.support.JdkCompiler
+javassist=com.mob.thor.rpc.common.compiler.support.JavassistCompiler

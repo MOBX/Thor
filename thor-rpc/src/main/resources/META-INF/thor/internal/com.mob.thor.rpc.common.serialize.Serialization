@@ -1,0 +1,7 @@
+dubbo=com.mob.thor.rpc.common.serialize.support.dubbo.DubboSerialization
+hessian2=com.mob.thor.rpc.common.serialize.support.hessian.Hessian2Serialization
+java=com.mob.thor.rpc.common.serialize.support.java.JavaSerialization
+compactedjava=com.mob.thor.rpc.common.serialize.support.java.CompactedJavaSerialization
+json=com.mob.thor.rpc.common.serialize.support.json.JsonSerialization
+fastjson=com.mob.thor.rpc.common.serialize.support.json.FastJsonSerialization
+nativejava=com.mob.thor.rpc.common.serialize.support.nativejava.NativeJavaSerialization

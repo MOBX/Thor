@@ -1,0 +1,4 @@
+transport=com.mob.thor.rpc.remoting.api.transport.codec.TransportCodec
+telnet=com.mob.thor.rpc.remoting.api.telnet.codec.TelnetCodec
+exchange=com.mob.thor.rpc.remoting.api.exchange.codec.ExchangeCodec
+dubbo=com.mob.thor.rpc.protocol.DubboCountCodec

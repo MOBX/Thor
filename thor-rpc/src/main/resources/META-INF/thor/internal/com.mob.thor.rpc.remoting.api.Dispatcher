@@ -1,0 +1,5 @@
+all=com.mob.thor.rpc.remoting.api.transport.dispatcher.all.AllDispatcher
+direct=com.mob.thor.rpc.remoting.api.transport.dispatcher.direct.DirectDispatcher
+message=com.mob.thor.rpc.remoting.api.transport.dispatcher.message.MessageOnlyDispatcher
+execution=com.mob.thor.rpc.remoting.api.transport.dispatcher.execution.ExecutionDispatcher
+connection=com.mob.thor.rpc.remoting.api.transport.dispatcher.connection.ConnectionOrderedDispatcher

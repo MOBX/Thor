@@ -1,0 +1,3 @@
+fixed=com.mob.thor.rpc.common.threadpool.support.fixed.FixedThreadPool
+cached=com.mob.thor.rpc.common.threadpool.support.cached.CachedThreadPool
+limited=com.mob.thor.rpc.common.threadpool.support.limited.LimitedThreadPool

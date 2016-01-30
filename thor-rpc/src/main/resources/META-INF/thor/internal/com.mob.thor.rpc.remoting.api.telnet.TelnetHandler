@@ -1,0 +1,12 @@
+clear=com.mob.thor.rpc.remoting.api.telnet.support.command.ClearTelnetHandler
+exit=com.mob.thor.rpc.remoting.api.telnet.support.command.ExitTelnetHandler
+help=com.mob.thor.rpc.remoting.api.telnet.support.command.HelpTelnetHandler
+status=com.mob.thor.rpc.remoting.api.telnet.support.command.StatusTelnetHandler
+log=com.mob.thor.rpc.remoting.api.telnet.support.command.LogTelnetHandler
+ls=com.mob.thor.rpc.protocol.telnet.ListTelnetHandler
+ps=com.mob.thor.rpc.protocol.telnet.PortTelnetHandler
+cd=com.mob.thor.rpc.protocol.telnet.ChangeTelnetHandler
+pwd=com.mob.thor.rpc.protocol.telnet.CurrentTelnetHandler
+invoke=com.mob.thor.rpc.protocol.telnet.InvokeTelnetHandler
+trace=com.mob.thor.rpc.protocol.telnet.TraceTelnetHandler
+count=com.mob.thor.rpc.protocol.telnet.CountTelnetHandler

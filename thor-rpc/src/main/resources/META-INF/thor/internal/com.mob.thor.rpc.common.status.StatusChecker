@@ -1,0 +1,4 @@
+memory=com.mob.thor.rpc.common.status.support.MemoryStatusChecker
+load=com.mob.thor.rpc.common.status.support.LoadStatusChecker
+server=com.mob.thor.rpc.protocol.status.ServerStatusChecker
+threadpool=com.mob.thor.rpc.protocol.status.ThreadPoolStatusChecker

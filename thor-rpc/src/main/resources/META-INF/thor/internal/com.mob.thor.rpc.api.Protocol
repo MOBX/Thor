@@ -1,0 +1,4 @@
+thor=com.mob.thor.rpc.protocol.ThorProtocol
+filter=com.mob.thor.rpc.api.protocol.ProtocolFilterWrapper
+listener=com.mob.thor.rpc.api.protocol.ProtocolListenerWrapper
+mock=com.mob.thor.rpc.api.support.MockProtocol

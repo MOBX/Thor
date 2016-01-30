@@ -1,0 +1,4 @@
+slf4j=com.mob.thor.rpc.common.logger.slf4j.Slf4jLoggerAdapter
+jcl=com.mob.thor.rpc.common.logger.jcl.JclLoggerAdapter
+log4j=com.mob.thor.rpc.common.logger.log4j.Log4jLoggerAdapter
+jdk=com.mob.thor.rpc.common.logger.jdk.JdkLoggerAdapter
